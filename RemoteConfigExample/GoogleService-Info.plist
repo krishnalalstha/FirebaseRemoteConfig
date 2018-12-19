@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>316779951034-1h4vmr8ca6t96pf9p1ounkg6oqj1hjfl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.316779951034-1h4vmr8ca6t96pf9p1ounkg6oqj1hjfl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBWXmq8OoZ4BzXQXZkEkrcbYQmhn4GFjB0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>316779951034</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Evolve-Asia.RemoteConfigExample</string>
+	<key>PROJECT_ID</key>
+	<string>evolve-debug</string>
+	<key>STORAGE_BUCKET</key>
+	<string>evolve-debug.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:316779951034:ios:af90215b40ba7f2d</string>
+	<key>DATABASE_URL</key>
+	<string>https://evolve-debug.firebaseio.com</string>
+</dict>
+</plist>
